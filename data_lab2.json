@@ -1,0 +1,35 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 29.99,
+      "tags": [
+        "dystopia",
+        "classic"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Harry Potter",
+      "author": "J.K. Rowling",
+      "price": 39.99,
+      "tags": [
+        "fantasy",
+        "magic"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Harry Potter",
+      "author": "J.K. Rowling",
+      "price": 39.99,
+      "tags": [
+        "fantasy",
+        "magic"
+      ]
+    }
+  ],
+  "next_id": 5
+}
