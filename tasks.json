@@ -1,0 +1,50 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Finish FastAPI project",
+      "done": false,
+      "priority": 3,
+      "labels": [
+        "work",
+        "urgent"
+      ],
+      "due_date": "2025-11-05T18:00:00Z",
+      "created_at": "2025-10-29T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Buy groceries",
+      "done": false,
+      "priority": 1,
+      "labels": [
+        "personal"
+      ],
+      "due_date": "2025-10-30T15:00:00Z",
+      "created_at": "2025-10-28T12:30:00Z"
+    },
+    {
+      "id": 3,
+      "created_at": "2025-10-29T08:56:18.249410",
+      "title": "Finish FastAPI project (final)",
+      "done": true,
+      "priority": 5,
+      "labels": [
+        "work"
+      ],
+      "due_date": "2025-11-04T20:00:00Z"
+    },
+    {
+      "id": 4,
+      "created_at": "2025-10-29T08:56:19.485414",
+      "title": "Finish FastAPI project (final)",
+      "done": true,
+      "priority": 5,
+      "labels": [
+        "work"
+      ],
+      "due_date": "2025-11-04T20:00:00Z"
+    }
+  ],
+  "next_id": 6
+}
